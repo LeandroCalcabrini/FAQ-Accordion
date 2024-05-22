@@ -51,6 +51,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 40px;
     padding: 15px 0px;
     font-size: 15px;
     color: hsl(292, 42%, 14%);
